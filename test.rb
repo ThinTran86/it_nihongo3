@@ -13,4 +13,5 @@ class Drink < Menu
     super(name:, price:)
     @size = size
   end
+  # tien them vao day
 end
