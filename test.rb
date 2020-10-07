@@ -14,3 +14,4 @@ class Drink < Menu
     @size = size
   end
 end
+puts " Hello sensei";
