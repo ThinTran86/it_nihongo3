@@ -14,3 +14,7 @@ class Drink < Menu
     @size = size
   end
 end
+
+puts "hello world"
+
+puts "long"
