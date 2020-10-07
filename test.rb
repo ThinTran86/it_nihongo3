@@ -14,3 +14,5 @@ class Drink < Menu
     @size = size
   end
 end
+
+menu = Menu.new(name: "Bun", price: "30000")
