@@ -14,3 +14,5 @@ class Drink < Menu
     @size = size
   end
 end
+
+puts "先生、こんにちは"
