@@ -16,3 +16,5 @@ class Drink < Menu
 end
 
 puts "hello world"
+
+puts "long"
