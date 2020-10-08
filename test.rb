@@ -15,4 +15,4 @@ class Drink < Menu
   end
 end
 puts "le huy hoang"
-puts "20176767"
+puts "abc"
