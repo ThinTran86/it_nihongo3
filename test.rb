@@ -14,3 +14,5 @@ class Drink < Menu
     @size = size
   end
 end
+puts "le huy hoang"
+puts "20176767"
