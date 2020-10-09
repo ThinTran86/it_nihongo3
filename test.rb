@@ -6,7 +6,7 @@ class Menu
     @price = price
   end
 end
-puts "ver_2"
+
 class Drink < Menu
   attr_accessor :size
   def initialize(size:)
@@ -14,3 +14,4 @@ class Drink < Menu
     @size = size
   end
 end
+puts "ver_2"
