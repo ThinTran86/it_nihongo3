@@ -1,4 +1,5 @@
 class Menu
+  puts "daovietduc"
   attr_accessor :name
   attr_accessor :price
   def initialize (name:, price:)
