@@ -1,0 +1,4 @@
+language = "ruby"
+run = ""
+
+puts "Hi anh em"
