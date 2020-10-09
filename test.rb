@@ -10,7 +10,9 @@ end
 class Drink < Menu
   attr_accessor :size
   def initialize(size:)
-    super(name:, price:)
+    super(name, price)
     @size = size
   end
 end
+
+menu = Menu.new(name: "Bun", price: "30000")
