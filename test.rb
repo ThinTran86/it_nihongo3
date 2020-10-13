@@ -11,6 +11,8 @@ class Drink < Menu
   attr_accessor :size
   def initialize(size:)
     super(name:, price:)
+
+    
     @size = size
   end
 end
